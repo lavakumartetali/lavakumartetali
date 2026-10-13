@@ -1,4 +1,4 @@
-# Lava (lavakumartetali) — Test Engineer & Automation Developer
+# Lava Kumar — Test Engineer & Automation Developer
 
 <img src="./banner.svg" alt="Lava banner" width="100%" />
 
