@@ -54,15 +54,15 @@
   <!-- Code blocks -->
   <g transform="translate(60 42)">
     <rect x="0" y="0" width="290" height="78" rx="10" fill="#0b1220" opacity="0.42" stroke="#7dd3fc" stroke-opacity="0.3"/>
-    <text x="20" y="28" class="code">const tests = playright.run()</text>
+    <text x="20" y="28" class="code">const tests = playwright.run()</text>
     <text x="20" y="52" class="code">const ai = copilot.assist()</text>
     <text x="20" y="76" class="code">const qa = automate();</text>
   </g>
 
   <!-- Main text -->
-  <text x="80" y="130" class="title">Test Engineer</text>
-  <text x="80" y="168" class="subtitle">Automation Developer • AI-assisted Engineer</text>
-  <text x="80" y="202" class="subtitle">Playwright • Auto+ • RAG • LLMs • Quality Engineering</text>
+  <text x="80" y="130" class="title">SDET / Automation Developer</text>
+  <text x="80" y="168" class="subtitle">AI-assisted Engineer • Playwright • Auto+</text>
+  <text x="80" y="202" class="subtitle">RAG • LLMs • Quality Engineering</text>
 
   <!-- Footer -->
   <text x="80" y="260" class="muted">Building reliable automation and intelligent engineering workflows</text>
