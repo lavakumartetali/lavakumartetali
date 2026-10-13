@@ -60,8 +60,8 @@
   </g>
 
   <!-- Main text -->
-  <text x="80" y="130" class="title">Lava Kumar</text>
-  <text x="80" y="168" class="subtitle">Test Engineer • Automation Developer • AI-assisted Engineer</text>
+  <text x="80" y="130" class="title">Test Engineer</text>
+  <text x="80" y="168" class="subtitle">Automation Developer • AI-assisted Engineer</text>
   <text x="80" y="202" class="subtitle">Playwright • Auto+ • RAG • LLMs • Quality Engineering</text>
 
   <!-- Footer -->
