@@ -14,8 +14,8 @@
       <feGaussianBlur stdDeviation="24"/>
     </filter>
     <style>
-      .title { font: 700 46px 'Segoe UI', Inter, Arial, sans-serif; fill: #f8fafc; }
-      .subtitle { font: 500 20px 'Segoe UI', Inter, Arial, sans-serif; fill: #dbeafe; }
+      .title { font: 700 42px 'Segoe UI', Inter, Arial, sans-serif; fill: #f8fafc; }
+      .subtitle { font: 500 18px 'Segoe UI', Inter, Arial, sans-serif; fill: #dbeafe; }
       .code { font: 500 18px 'Consolas', 'SFMono-Regular', monospace; fill: #d4f8f1; }
       .muted { font: 500 14px 'Segoe UI', Inter, Arial, sans-serif; fill: #8fe8dc; }
     </style>
@@ -52,7 +52,7 @@
   </g>
 
   <!-- Code blocks -->
-  <g transform="translate(60 40)">
+  <g transform="translate(60 42)">
     <rect x="0" y="0" width="290" height="78" rx="10" fill="#0b1220" opacity="0.42" stroke="#7dd3fc" stroke-opacity="0.3"/>
     <text x="20" y="28" class="code">const tests = playright.run()</text>
     <text x="20" y="52" class="code">const ai = copilot.assist()</text>
@@ -60,10 +60,10 @@
   </g>
 
   <!-- Main text -->
-  <text x="80" y="142" class="title">Lava Kumar</text>
-  <text x="80" y="188" class="subtitle">Test Engineer • Automation Developer • AI-assisted Engineer</text>
-  <text x="80" y="226" class="subtitle">Playwright • Auto+ • RAG • LLMs • Quality Engineering</text>
+  <text x="80" y="130" class="title">Lava Kumar</text>
+  <text x="80" y="168" class="subtitle">Test Engineer • Automation Developer • AI-assisted Engineer</text>
+  <text x="80" y="202" class="subtitle">Playwright • Auto+ • RAG • LLMs • Quality Engineering</text>
 
   <!-- Footer -->
-  <text x="80" y="268" class="muted">Building reliable automation and intelligent engineering workflows</text>
+  <text x="80" y="260" class="muted">Building reliable automation and intelligent engineering workflows</text>
 </svg>
